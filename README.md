@@ -10,8 +10,6 @@ Puedes usar cualquier herramienta que desees. Si tienes algo concreto que quiera
 
 **Para completar este reto necesitas tener conocimientos de HTML y CSS, incluyendo Flexbox o CSS Grid.**
 
----
-
 ## Dónde encontrar todo
 
 Tienes los recursos del proyecto dentro de la carpeta `/assets`:
@@ -25,7 +23,6 @@ El diseño de referencia está en `/design/spotify-prototype.pdf`. Revísalo ant
 
 Consulta el archivo `style-guide.md` para la paleta de colores, tipografías y tamaños de referencia.
 
----
 
 ## Instrucciones
 
@@ -84,8 +81,6 @@ Con el diseño móvil establecido, añade los estilos de escritorio dentro de un
 
 - Añade efectos `hover` en los botones y enlaces de navegación
 - Implementa un menú hamburguesa funcional para el menú móvil (requiere JavaScript básico)
-
----
 
 ## Buenas prácticas obligatorias
 
@@ -187,8 +182,6 @@ El diseño debe adaptarse correctamente al menos en los siguientes breakpoints:
 
 Prueba el resultado en Chrome DevTools activando la vista de dispositivo.
 
----
-
 ## Proceso sugerido
 
 No hay una única forma de abordar el proyecto. Esta secuencia puede ayudarte si no sabes por dónde empezar:
@@ -201,8 +194,6 @@ No hay una única forma de abordar el proyecto. Esta secuencia puede ayudarte si
 6. Añade las media queries para el diseño desktop
 7. Revisa el resultado en varios tamaños de pantalla y ajusta
 
----
-
 ## Despliegue
 
 Puedes publicar tu proyecto de forma gratuita con cualquiera de estas opciones:
@@ -212,8 +203,6 @@ Puedes publicar tu proyecto de forma gratuita con cualquiera de estas opciones:
 - [Netlify](https://www.netlify.com/)
 
 Publicar el proyecto te permite compartir la URL y recibir feedback más fácilmente.
-
----
 
 ## Tu README personalizado
 
@@ -229,7 +218,5 @@ Cuando termines el ejercicio, sustituye este README por uno propio. Una buena es
 ```
 
 Documentar tu proceso es una práctica profesional que te ayuda a consolidar lo aprendido y a comunicar tu trabajo.
-
----
 
 **¡Buena maquetación!**

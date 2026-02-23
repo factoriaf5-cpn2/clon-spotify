@@ -9,8 +9,6 @@ Los diseños de referencia están pensados para los siguientes anchos:
 
 El contenido debe ser responsive y funcionar correctamente en cualquier tamaño entre 320px y pantallas grandes.
 
----
-
 ## Colores
 
 ```css
@@ -32,8 +30,6 @@ El contenido debe ser responsive y funcionar correctamente en cualquier tamaño 
   --color-border: #333333;
 }
 ```
-
----
 
 ## Tipografía
 
@@ -60,8 +56,6 @@ Spotify usa la fuente propietaria _Circular_. Como alternativa libre, puedes usa
 }
 ```
 
----
-
 ## Espaciado
 
 ```css
@@ -75,8 +69,6 @@ Spotify usa la fuente propietaria _Circular_. Como alternativa libre, puedes usa
 }
 ```
 
----
-
 ## Bordes y radios
 
 ```css
@@ -87,9 +79,8 @@ Spotify usa la fuente propietaria _Circular_. Como alternativa libre, puedes usa
 }
 ```
 
----
-
 ## Breakpoints de referencia
+Si necesitas breakpoints puedes utilizar estas referencias
 
 ```css
 /* Tablet */
