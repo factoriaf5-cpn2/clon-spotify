@@ -1,12 +1,16 @@
+![Clon Spotify](./design/All%20design.png)
+
 # Clon de Spotify
 
-## Descripción del proyecto (En proceso)
+## Descripción del proyecto
 
-Proyecto de maquetación **móvil y desktop** inspirado en la marca **Spotify**, con un menú interactivo **sidebar** en la versión móvil.
+Proyecto de maquetación **móvil y desktop** con menu hamburquesa desplegable en versopn de pantalla para moviles inspirado en la marca **Spotify**, con un menú interactivo **sidebar** en la versión móvil.
 
 ## Capturas de pantalla
 
-_(móvil y desktop)_
+[Version movil](./design/Version%20movil.png)
+[Version movil con menu abierto](./design/Menu%20movil%20open.png)
+[Version desktop](./design/Version%20desktop.png)
 
 ## Tecnologías utilizadas
 
@@ -26,6 +30,7 @@ _(móvil y desktop)_
 - Reducir código repetido en CSS.
 - Aclarar cuándo usar `<div>` y cuándo etiquetas semánticas como `<article>` o `<ul>`.
 - Optimizar la estructura semántica del contenido.
+- Sigo confundiendo cuando es conveniente usar px o %, me desbordan los margenes
 
 ## URL del proyecto desplegado
 
